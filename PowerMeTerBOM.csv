@@ -1,0 +1,17 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J2,J1";"TerminalBlock_RND_205-00012_1x02_P5.00mm_Horizontal";2;"Screw_Terminal_01x02";;;
+2;"R7,R4";"R_0805_2012Metric";2;"40k";;;
+3;"J3";"Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical";1;"Conn_01x06_Male";;;
+4;"R2,R3";"R_0805_2012Metric";2;"1k";;;
+5;"U1,U2";"SOIC-8_3.9x4.9mm_P1.27mm";2;"MCP6002-xSN";;;
+6;"R1,R8";"R_0805_2012Metric";2;"0.160Z";;;
+7;"R5";"R_0805_2012Metric";1;"100";;;
+8;"Q1";"TO-252-2";1;"Q_NMOS_GDS";;;
+9;"D1";"LED_0805_2012Metric";1;"LED";;;
+10;"C2";"C_0805_2012Metric";1;"100nF";;;
+11;"R13,R11,R10";"R_0805_2012Metric";3;"100k";;;
+12;"R6,R9";"R_0805_2012Metric";2;"10k";;;
+13;"R14";"R_0805_2012Metric";1;"330";;;
+14;"C1";"C_0805_2012Metric";1;"1nF";;;
+15;"RV1";"Alps_RK09K_Vertical";1;"10k";;;
+16;"R12";"R_0805_2012Metric";1;"30k";;;
